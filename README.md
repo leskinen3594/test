@@ -7,6 +7,6 @@
 | -------- | --------- |
 | Bechelor | RMUTSV |
 # Hobby
-| Coding |
+| Coding | \
 | Play computer game |
 
