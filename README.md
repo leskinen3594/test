@@ -5,7 +5,7 @@
 # Education
 | Level | College |
 | -------- | --------- |
-| Bechelor | RMUTSV |
+| Bachelor | RMUTSV |
 # Hobby
 - Coding
 - Play computer game
